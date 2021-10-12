@@ -1,0 +1,36 @@
+C:\Users\LENOVO\source\repos\PulsacioneG01-2021-2\Entidad\bin\Debug\net5.0\Entidad.deps.json
+C:\Users\LENOVO\source\repos\PulsacioneG01-2021-2\Entidad\bin\Debug\net5.0\Entidad.dll
+C:\Users\LENOVO\source\repos\PulsacioneG01-2021-2\Entidad\bin\Debug\net5.0\ref\Entidad.dll
+C:\Users\LENOVO\source\repos\PulsacioneG01-2021-2\Entidad\bin\Debug\net5.0\Entidad.pdb
+C:\Users\LENOVO\source\repos\PulsacioneG01-2021-2\Entidad\obj\Debug\net5.0\Entidad.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\PulsacioneG01-2021-2\Entidad\obj\Debug\net5.0\Entidad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\PulsacioneG01-2021-2\Entidad\obj\Debug\net5.0\Entidad.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\PulsacioneG01-2021-2\Entidad\obj\Debug\net5.0\Entidad.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\PulsacioneG01-2021-2\Entidad\obj\Debug\net5.0\Entidad.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\PulsacioneG01-2021-2\Entidad\obj\Debug\net5.0\Entidad.dll
+C:\Users\LENOVO\source\repos\PulsacioneG01-2021-2\Entidad\obj\Debug\net5.0\ref\Entidad.dll
+C:\Users\LENOVO\source\repos\PulsacioneG01-2021-2\Entidad\obj\Debug\net5.0\Entidad.pdb
+C:\Users\LENOVO\Documents\ProyectosUPC\ProgramacionWeb\2021-II\Dotnet\Nueva carpeta\Pulsacion\Entidad\bin\Debug\net5.0\Entidad.deps.json
+C:\Users\LENOVO\Documents\ProyectosUPC\ProgramacionWeb\2021-II\Dotnet\Nueva carpeta\Pulsacion\Entidad\bin\Debug\net5.0\Entidad.dll
+C:\Users\LENOVO\Documents\ProyectosUPC\ProgramacionWeb\2021-II\Dotnet\Nueva carpeta\Pulsacion\Entidad\bin\Debug\net5.0\Entidad.pdb
+C:\Users\LENOVO\Documents\ProyectosUPC\ProgramacionWeb\2021-II\Dotnet\Nueva carpeta\Pulsacion\Entidad\obj\Debug\net5.0\Entidad.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Documents\ProyectosUPC\ProgramacionWeb\2021-II\Dotnet\Nueva carpeta\Pulsacion\Entidad\obj\Debug\net5.0\Entidad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Documents\ProyectosUPC\ProgramacionWeb\2021-II\Dotnet\Nueva carpeta\Pulsacion\Entidad\obj\Debug\net5.0\Entidad.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Documents\ProyectosUPC\ProgramacionWeb\2021-II\Dotnet\Nueva carpeta\Pulsacion\Entidad\obj\Debug\net5.0\Entidad.AssemblyInfo.cs
+C:\Users\LENOVO\Documents\ProyectosUPC\ProgramacionWeb\2021-II\Dotnet\Nueva carpeta\Pulsacion\Entidad\obj\Debug\net5.0\Entidad.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\ProyectosUPC\ProgramacionWeb\2021-II\Dotnet\Nueva carpeta\Pulsacion\Entidad\obj\Debug\net5.0\Entidad.dll
+C:\Users\LENOVO\Documents\ProyectosUPC\ProgramacionWeb\2021-II\Dotnet\Nueva carpeta\Pulsacion\Entidad\obj\Debug\net5.0\Entidad.pdb
+C:\Users\LENOVO\Documents\ProyectosUPC\ProgramacionWeb\2021-II\Dotnet\Nueva carpeta\Pulsacion\Entidad\obj\Debug\net5.0\ref\Entidad.dll
+C:\Users\LENOVO\Documents\ProyectosUPC\ProgramacionWeb\2021-II\Dotnet\Nueva carpeta\Pulsacion\Entidad\bin\Debug\net5.0\ref\Entidad.dll
+C:\Users\LENOVO\Documents\ProyectosUPC\ProgramacionWeb\2021-II\Dotnet\Nueva carpeta\Pulsacion - copia\Entidad\bin\Debug\net5.0\Entidad.deps.json
+C:\Users\LENOVO\Documents\ProyectosUPC\ProgramacionWeb\2021-II\Dotnet\Nueva carpeta\Pulsacion - copia\Entidad\bin\Debug\net5.0\Entidad.dll
+C:\Users\LENOVO\Documents\ProyectosUPC\ProgramacionWeb\2021-II\Dotnet\Nueva carpeta\Pulsacion - copia\Entidad\bin\Debug\net5.0\ref\Entidad.dll
+C:\Users\LENOVO\Documents\ProyectosUPC\ProgramacionWeb\2021-II\Dotnet\Nueva carpeta\Pulsacion - copia\Entidad\bin\Debug\net5.0\Entidad.pdb
+C:\Users\LENOVO\Documents\ProyectosUPC\ProgramacionWeb\2021-II\Dotnet\Nueva carpeta\Pulsacion - copia\Entidad\obj\Debug\net5.0\Entidad.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Documents\ProyectosUPC\ProgramacionWeb\2021-II\Dotnet\Nueva carpeta\Pulsacion - copia\Entidad\obj\Debug\net5.0\Entidad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Documents\ProyectosUPC\ProgramacionWeb\2021-II\Dotnet\Nueva carpeta\Pulsacion - copia\Entidad\obj\Debug\net5.0\Entidad.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Documents\ProyectosUPC\ProgramacionWeb\2021-II\Dotnet\Nueva carpeta\Pulsacion - copia\Entidad\obj\Debug\net5.0\Entidad.AssemblyInfo.cs
+C:\Users\LENOVO\Documents\ProyectosUPC\ProgramacionWeb\2021-II\Dotnet\Nueva carpeta\Pulsacion - copia\Entidad\obj\Debug\net5.0\Entidad.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\ProyectosUPC\ProgramacionWeb\2021-II\Dotnet\Nueva carpeta\Pulsacion - copia\Entidad\obj\Debug\net5.0\Entidad.dll
+C:\Users\LENOVO\Documents\ProyectosUPC\ProgramacionWeb\2021-II\Dotnet\Nueva carpeta\Pulsacion - copia\Entidad\obj\Debug\net5.0\ref\Entidad.dll
+C:\Users\LENOVO\Documents\ProyectosUPC\ProgramacionWeb\2021-II\Dotnet\Nueva carpeta\Pulsacion - copia\Entidad\obj\Debug\net5.0\Entidad.pdb

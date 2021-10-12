@@ -1,0 +1,13 @@
+<form class="row g-3">
+  <div class="col-md-4">
+    <label for="valor" class="form-label">Valor</label>
+    <input type="text" class="form-control" id="valor" name="valor" [(ngModel)]="pago.valor" required>
+  </div>
+  <div class="col-md-4">
+    <label for="fecha" class="form-label">Fecha</label>
+    <input type="date" class="form-control" id="fecha" name="fecha" [(ngModel)]="pago.fecha" required>
+  </div>
+  <div class="p-md-3 col-12 ">
+    <button class="btn btn-primary" (click)="add()" type="submit">Gurdar</button>
+  </div>
+</form>
